@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Keep Container",
+  "version": "0.2",
+
+  "description": "Opens new tabs in the same container as the previous used tab. To open a new tab in the default container, simply create a new tab while on the new tab page.",
+
+  "permissions": [
+    "tabs",
+    "contextualIdentities",
+    "cookies"
+  ],
+
+  "background": {
+    "scripts": ["keepcontainer.js"]
+  }
+}

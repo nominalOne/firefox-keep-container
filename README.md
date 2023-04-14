@@ -1,7 +1,7 @@
 # Keep Container
 An extension for Firefox that opens new tabs in the same container as the previous used tab. To open a new tab in the default container, simply create a new tab while on the new tab page.
 
-Not currently published or ready for release.
+Submitted to firefox addons for publishing :\).
 
 # Bugs
 None known at the moment. Leave a pull request? if you find one! Or email me at thenominalone@gmail.com
